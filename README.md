@@ -137,3 +137,16 @@ git add.
     - Accept Current Change (베이스 브랜치의 내용만 남김)
     - Accept Incoming Change (compare 브랜치의 내용만 남김)
     - Accept Both Change (둘 다 남김)
+
+# Pull Request
+ - 공동 작업자에게 브랜치 병합을 요청하는 메시지를 보내는 것
+ - 원격 저장소에서 최근 베이스 브랜치보다 앞선 브랜치의 원격 커밋이 있을 경우
+    - Compare & pull request   버튼 확인 가능
+ - 협업자에게 정중하게 병합을 요청한다.
+    - bace : 병합된 커밋이 들어갈 브랜치
+    - compare : 병합이 될 브랜치
+    - Able to Merge : 충돌 없이 병합될 수 있음.
+    - 제목과 내용 부분에 협업자에게 도움이 되는 설명을 남긴다.
+- 원격저장소에서 변경이 된 내용을 로컬에서 확인하기
+    - git fetch : 원격저장소의 내용을 업데이트
+    - git full : 로컬로 가져와서 합치기
