@@ -5,13 +5,14 @@ GitHub
 ---
 ### Github 가입
 [github](https://github.com/)에서 회원가입
-    -owener : 사용자이름
-    -Repository name : 중복되지 않는 저장소 이름
-    -Description : 저장소를 설명하는 요약 한 줄
-    -public / Private : 공개 / 비공개 설정
-    -Add a README : 리드미 파일을 자동으로 추가(체크 비권장)(이후 추가 가능)
-    -Add .gitignore : 깃 저장소에 올리면 안되는 파일의 목록이 담긴 파일(해당 파일들은 무시)(프로그래밍 언어별 기본값)(이후 추가 가능)
-    -Choose a license : 오픈소스에 대한 지적재산권을 부여하기 위한 파일 추가(이후 추가 가능)
+
+    - owener : 사용자이름
+    - Repository name : 중복되지 않는 저장소 이름
+    - Description : 저장소를 설명하는 요약 한 줄
+    - public / Private : 공개 / 비공개 설정
+    - Add a README : 리드미 파일을 자동으로 추가(체크 비권장)(이후 추가 가능)
+    - Add .gitignore : 깃 저장소에 올리면 안되는 파일의 목록이 담긴 파일(해당 파일들은 무시)(프로그래밍 언어별 기본값)(이후 추가 가능)
+    - Choose a license : 오픈소스에 대한 지적재산권을 부여하기 위한 파일 추가(이후 추가 가능)
     - 3가지 파일을 선택하지 않으면, Quick Setup (CLI 명령어)를 볼 수 있다.
 
 Git
